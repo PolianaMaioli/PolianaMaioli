@@ -3,7 +3,7 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <br>🔄 No início da pandemia tomei uma decisão difícil de parar minha carreira profissional para me dedicar 100% a minha  filha. 
-<br>Agora decidi retornar ao mercado de trabalho, e estou em transição de área<br>do setor de 'Suporte' para 'Desenvolvimento'. 
+<br>Agora decidi retornar ao mercado de trabalho, e estou em transição de área do setor de 'Suporte' para 'Desenvolvimento'. 
 
 <br><br>🚀 Aspirante em Programação
 <br>🧠 Estudando: Logica de Programação, Java Script, HTML5, CSS3
