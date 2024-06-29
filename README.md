@@ -30,15 +30,6 @@ Minhas competências incluem:
 </p>
 
 
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=polianamaioli&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=polianamaioli&theme=monokai&hide_border=false)<br/>
-
-
-### ✍️ Citação aleatória 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
 
 
 <i> Feito com 💕 Poliana Maioli </i>
