@@ -2,8 +2,16 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 
 
-<br>🔄 No início da pandemia tomei uma decisão difícil de parar minha carreira profissional para me dedicar 100% a minha  filha. 
-<br>Agora decidi retornar ao mercado de trabalho, e estou em transição de área do setor de 'Suporte' para 'Desenvolvimento'. 
+<br>Sou um analista de suporte com seis anos de experiência, especializado em fornecer suporte técnico de alta qualidade em ambientes dinâmicos. Iniciei minha carreira como analista de suporte nível 1, adquirindo habilidades essenciais em atendimento ao cliente e resolução de problemas básicos de hardware e software. Progredi para o papel de analista de suporte nível 2, onde assumi responsabilidades mais complexas, como gestão de chamados, resolução de problemas técnicos desafiadores e suporte à administração de sistemas.
+
+Minhas competências incluem:
+
+- Solução de Problemas: Análise e diagnóstico de falhas, implementação de soluções eficazes para garantir a continuidade operacional dos sistemas.<br>
+- SQL e Banco de Dados: Utilização de scripts SQL para consultas de extração, manipulação e análise de dados.<br>
+- E-commerce: Suporte à plataforma de e-commerce, resolvendo questões relacionadas à manutenção e atualização do site.<br>
+- Atendimento ao Cliente: Prestação de atendimento a clientes via online e telefone, esclarecendo dúvidas na utilização do sistema e realizando análises de incidentes.<br>
+- Documentação Técnica: Desenvolvimento de documentação técnica, atualização da base de conhecimento e treinamento de usuários.<br>
+- Colaboração em Equipe: Capacidade de comunicar informações técnicas de forma clara e concisa, estabelecendo relacionamentos positivos com clientes internos e externos. <br>
 
 <br><br>🚀 Aspirante em Programação
 <br>🧠 Estudando: Logica de Programação, Java Script, HTML5, CSS3
